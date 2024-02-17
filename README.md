@@ -1,6 +1,6 @@
 # python_c_project
-This repo is for projects-
-to do list app
-Weather App
-Expense Tracker
-Chatbot
+This repo is for projects-<br>
+to do list app<br>
+Weather App<br>
+Expense Tracker<br>
+Chatbot<br>
